@@ -1,37 +1,47 @@
-ui-ux-product-design-60d
-My 60-day UI/UX and Product Design learning journey
 # UI/UX Product Design — 60 Days
 
-## Starting point
+## Goal
 
-Start date: 12 July 2026
+Complete a structured 60-day UI/UX and Product Design program and build verifiable evidence of my skills.
 
-### Current skills
-- Basic understanding of visual design
-- Experience with Photopea and AI image tools
-- Limited experience with Figma
-- Limited knowledge of UX research and product design
-- Beginner-level GitHub knowledge
+## Current status
 
-### Main goal
-Build a job-ready UI/UX and Product Design portfolio in 60 days.
+Day 01 — Diagnostics and workspace setup.
 
-### Constraints
-- Budget: 1000–1200 DKK
-- Study time: approximately 6 hours per day
-- Priority market: Denmark and remote European positions
+## Project structure
 
-### Expected results
-- 2–3 complete case studies
-- Published portfolio website
-- Documented UX research
-- Design system
-- Working prototypes
-- Job-market analysis
-- First job applications
+- `00_ADMIN` — tracker, diagnostics, rules and project links
+- `01_Research` — research materials and analysis
+- `02_Wireframes` — low-fidelity screen structures
+- `03_UI` — visual interface designs
+- `04_Prototypes` — interactive prototypes
+- `05_CaseStudies` — documented project process
+- `06_Portfolio` — final portfolio materials
+- `07_progress` — screenshots and progress evidence
+
+## Evidence rules
+
+Every claimed skill or result must have verifiable evidence:
+
+- Figma file
+- GitHub commit
+- Screenshot
+- Research note
+- Test result
+- Exported artifact
+
+AI output, personal opinion and invented research results are not treated as evidence.
+
+## Main tools
+
+- Figma
+- GitHub
+- HTML and CSS
+- React
+- Storybook
 
 ## Progress
 
-- [x] Day 1 — Workspace and baseline
-- [ ] Day 2
-- [ ] Day 3
+Progress is recorded in:
+
+`00_ADMIN/00_MASTER_TRACKER.txt`
