@@ -1,4 +1,4 @@
-# ui-ux-product-design-60-days
+ui-ux-product-design-60d
 My 60-day UI/UX and Product Design learning journey
 # UI/UX Product Design — 60 Days
 
