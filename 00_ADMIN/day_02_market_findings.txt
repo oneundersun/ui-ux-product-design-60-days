@@ -1,0 +1,84 @@
+DAY 02 — JOB MARKET FINDINGS
+
+DATE
+14.07.2026
+
+SAMPLE
+- Total vacancies: 12
+- Ukrainian-language vacancies: 6
+- English-language vacancies: 6
+- This sample represents a personal market snapshot, not the entire UI/UX job market.
+
+SKILL FREQUENCY
+
+CORE — 75–100%
+- UI design: 12/12 — 100.00%
+- Figma: 10/12 — 83.33%
+- Prototyping: 10/12 — 83.33%
+
+FREQUENT — 50–74.99%
+- UX research: 6/12 — 50.00%
+- Wireframing: 6/12 — 50.00%
+
+ADVANTAGE — 25–49.99%
+- Portfolio: 5/12 — 41.67%
+- User flows: 5/12 — 41.67%
+- Design systems: 5/12 — 41.67%
+- Developer handoff: 3/12 — 25.00%
+
+RARE — BELOW 25%
+- HTML/CSS: 2/12 — 16.67%
+
+FIVE MAIN COURSE PRIORITIES
+
+1. Improve practical UI design quality because UI design appeared in 12 of 12 vacancies.
+2. Build a confident and structured Figma workflow because Figma appeared in 10 of 12 vacancies.
+3. Learn interactive prototyping because prototyping appeared in 10 of 12 vacancies.
+4. Practise UX research and wireframing as a repeatable product-design process.
+5. Create portfolio cases that demonstrate user flows, design systems and developer handoff.
+
+FIVE TOPICS NOT TO OVERBUILD
+
+1. React development.
+2. Advanced Storybook configuration.
+3. Figma MCP automation.
+4. Advanced HTML/CSS beyond basic design-to-code understanding.
+5. Complex AI automation and tooling.
+
+These topics are not removed from the course. They remain secondary until the core UI/UX and Figma skills are developed.
+
+SKILL-GAP CONNECTION
+
+- Starting diagnostic score: 8/100.
+- Current Figma level: 1/3. A master file exists, but there is no finished interface.
+- Current prototyping level: 0/3. There are no connected screens or documented interactions.
+- Current research level: 0/3. There is no research plan, interview evidence or analysis.
+- Current portfolio level: 1/3. The repository and structure exist, but there is no completed case study.
+- Current handoff level: 0/3. There are no specifications, states or developer notes.
+- HTML/CSS remains a supporting skill and must not replace core design practice.
+- React and Storybook are not treated as mandatory core skills because the analysed vacancies do not support that conclusion.
+
+DAY 03–14 PRIORITY
+
+- Improve visual UI fundamentals.
+- Build structured Figma working habits.
+- Practise wireframes and user flows.
+- Create interactive prototypes.
+- Save evidence for every completed practical artifact.
+
+QUALITY CHECK
+
+- Every percentage can be recalculated from 12 vacancy rows.
+- Missing information is marked as Not specified.
+- The findings do not claim that 12 vacancies represent the entire market.
+- React, Storybook and Figma MCP are not declared mandatory core skills.
+- The next learning priority is based on the strongest market frequencies and the current skill gaps.
+
+LIMITATIONS
+
+- The sample contains only 12 vacancies.
+- The sample includes 6 Ukrainian-language and 6 English-language vacancies.
+- Several vacancy URLs were unavailable and are marked as Not specified.
+- Job descriptions use inconsistent terminology.
+- Some skills may be expected by employers even when they are not explicitly mentioned.
+- Accessibility appeared rarely in this sample, but basic accessibility remains a necessary professional requirement.
