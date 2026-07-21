@@ -67,8 +67,9 @@ EVIDENCE:
 - Artifact: 01_Research/recruitment_status.txt
 - Screenshot: 07_progress/day_04_research_plan_1.png
 - Screenshot: 07_progress/day_04_research_plan_2.png
+- Screenshot: 07_progress/day_04_research_plan_3.png
 - Screenshot: 07_progress/day_04_recruitment_status.png
-- Git commit: заполнить после коммита
+- Git commit: dd12fbb
 
 TIME:
 - План: 3–4 часа
